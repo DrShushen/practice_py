@@ -1,4 +1,8 @@
-.idea/
-*.iml
+# IntelliJ Idea - don't include user-specific files.
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
 
 .ipynb_checkpoints/
