@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/numpy_visual_intro/numpy_visual_intro.iml" filepath="$PROJECT_DIR$/numpy_visual_intro/numpy_visual_intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practice_py.iml" filepath="$PROJECT_DIR$/.idea/practice_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pytorch_tutorials/pytorch_tutorials.iml" filepath="$PROJECT_DIR$/pytorch_tutorials/pytorch_tutorials.iml" />
       <module fileurl="file://$PROJECT_DIR$/toy-anomaly-detection-1/toy-anomaly-detection-1.iml" filepath="$PROJECT_DIR$/toy-anomaly-detection-1/toy-anomaly-detection-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/toy-anomaly-detection-2/toy-anomaly-detection-2.iml" filepath="$PROJECT_DIR$/toy-anomaly-detection-2/toy-anomaly-detection-2.iml" />
     </modules>
