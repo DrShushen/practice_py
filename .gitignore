@@ -6,3 +6,5 @@
 .idea/**/shelf
 
 .ipynb_checkpoints/
+
+pytorch_tutorials/data/
