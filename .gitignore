@@ -5,6 +5,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+# VSCode
+.vscode/
+
 .ipynb_checkpoints/
 
 pytorch_tutorials/data/
+pytorch_tutorials/gabrielloye/data/
