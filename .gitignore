@@ -8,7 +8,14 @@
 # VSCode
 .vscode/
 
+# Python
+__pycache__/
 .ipynb_checkpoints/
 
+# Data
 pytorch_tutorials/data/
-pytorch_tutorials/gabrielloye/data/
+pytorch_tutorials/gabrielloye_LSTM/data/
+pytorch_tutorials/**/processed.npz
+
+# Model files
+*.pt
