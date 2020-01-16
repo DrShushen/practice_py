@@ -16,6 +16,7 @@ __pycache__/
 pytorch_tutorials/data/
 pytorch_tutorials/gabrielloye_LSTM/data/
 pytorch_tutorials/**/processed.npz
+pytorch_tutorials/**/data/
 
 # Model files
 *.pt
