@@ -1,0 +1,13 @@
+name: py38_realpython_typechecking
+channels:
+  - defaults
+dependencies:
+  - black=19.10b0
+  - jupyterlab=3.1.7
+  - notebook=6.4.5
+  - numpy=1.21.2
+  - pip=21.2.4
+  - python=3.8.12
+  - pip:
+    - mypy==0.910
+    - parse==1.9.0
