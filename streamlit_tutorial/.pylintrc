@@ -1,0 +1,16 @@
+[MASTER]
+init-hook='import sys; sys.path.extend(["./"])'
+
+[MESSAGES CONTROL]
+disable=R,C,
+        raise-missing-from,
+        fixme,
+        pointless-string-statement
+
+[TYPECHECK]
+generated-members=tensorflow.*,
+                  torch.*
+ignored-modules=tensorflow.compat,
+                tensorflow.keras,
+                tensorflow.python.ops,
+                scipy.special
