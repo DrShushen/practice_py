@@ -1,0 +1,7 @@
+name: learn_py38_real-python-python-interfaces
+channels:
+  - defaults
+dependencies:
+  - black=22.6.0
+  - jupyterlab=3.5.0
+  - python=3.8.15
