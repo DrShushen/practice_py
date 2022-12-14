@@ -1,0 +1,9 @@
+name: learn_py38_real-python-python-decorators
+channels:
+  - defaults
+dependencies:
+  - flask=2.1.3
+  - jupyterlab=3.5.0
+  - pip:
+      - black==22.12.0
+      - pint==0.20.1
