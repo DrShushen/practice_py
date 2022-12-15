@@ -1,0 +1,9 @@
+name: learn_py38_real-python-python-metaclasses
+channels:
+  - defaults
+dependencies:
+  - jupyterlab=3.5.0
+  - pip=22.3.1
+  - python=3.8.15
+  - pip:
+      - black==22.12.0
