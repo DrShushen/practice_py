@@ -1,0 +1,17 @@
+name: learn_py38_lightning
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - flake8=4.0.1
+  - isort=5.9.3
+  - jupyterlab=3.5.0
+  - pandas=1.5.2
+  - pip=22.3.1
+  - python=3.8.15
+  - pytorch=1.13.1
+  - pytorch-cuda=11.7
+  - pytorch-lightning=1.8.1
+  - torchvision=0.14.1
