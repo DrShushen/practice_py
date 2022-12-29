@@ -1,0 +1,30 @@
+name: py38_playaround-sk_seglearn
+channels:
+  - defaults
+dependencies:
+  - cudatoolkit=10.1.243
+  - cudnn=7.6.5
+  - cython=0.29.24
+  - hdf5=1.10.6
+  - ipykernel=5.3.4
+  - ipython=7.22.0
+  - jupyterlab=3.0.14
+  - keras=2.4.3
+  - matplotlib=3.3.4
+  - notebook=6.4.0
+  - pip=21.1.3
+  - pytest=6.2.4
+  - python=3.8.10
+  - scikit-learn=0.24.2
+  - scipy=1.6.2
+  - tensorflow-base=2.4.1
+  - tensorflow-estimator=2.5.0
+  - pip:
+    - h5py==3.1.0
+    - keras-nightly==2.5.0.dev2021032900
+    - numpy==1.19.5
+    - pandas==1.0.5
+    - seglearn==1.2.3
+    - tensorboard==2.5.0
+    - tensorflow==2.5.0
+    - tensorflow-gpu==2.5.0
