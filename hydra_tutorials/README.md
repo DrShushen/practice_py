@@ -24,3 +24,5 @@ As of 2022-12.
     * Colorlog: https://hydra.cc/docs/plugins/colorlog/
     * Optuna sweeper: https://hydra.cc/docs/plugins/optuna_sweeper/
 * OmegaConf: https://omegaconf.readthedocs.io/en/latest/index.html
+* Using Hydra without `@hydra.main()`:
+https://stackoverflow.com/questions/60674012/how-to-get-a-hydra-config-without-using-hydra-main
