@@ -20,3 +20,6 @@ pytorch_tutorials/**/data/
 
 # Model files
 *.pt
+
+# Dotenv
+.env
